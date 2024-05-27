@@ -1,0 +1,11 @@
+*.o
+*.d
+*/out/
+kernel/kernel.bin
+user/user.debug
+user/user.bin
+kernel/kbd_linux/keymap.c
+
+.idea
+kernel/.nfs00000000059a0dfe00000082
+.vscode/*
