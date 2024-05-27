@@ -1,7 +1,7 @@
 #include "stdbool.h"
 #include "stdint.h"
 
-#define SCHEDFREQ 100
+#define SCHEDFREQ 5
 #define QUARTZ 0x1234DD
 
 extern unsigned long quartz;
